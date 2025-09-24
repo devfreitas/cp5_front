@@ -1,0 +1,20 @@
+{
+    "Funcionarios":[
+        {
+            "id": 1,
+            "Nome": "Rafael",
+            "Cargo": "Dev",
+            "Setor": "Front",
+            "Turno": "Manhã",
+            "Salario": 1200 
+        },
+        {
+            "id": 2,
+            "Nome": "Leeonardo",
+            "Cargo": "Dev",
+            "Setor": "Back",
+            "Turno": "Noite",
+            "Salario": 2400 
+        }
+    ]
+}
